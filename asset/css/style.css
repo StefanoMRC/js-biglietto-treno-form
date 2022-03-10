@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.titolo{
+    text-transform: uppercase;
+    
+}
+.bg_fucsia{
+    background-color: rgba(185,20,80,255);
+}
+.bg_white{
+    background-color: white;
+}
+.bg_gray{
+    background-color: gray;
+}
+.color_fucsia{
+    color: rgba(185,20,80,255);
+}
